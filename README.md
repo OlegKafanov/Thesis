@@ -1,10 +1,10 @@
 # Thesis
-Applying the genetic algorithm to controlling a moving vihicle
+"Applying the genetic algorithm to controlling a moving vihicle"
 
-Car gen.ipynb - код
+Car gen.ipynb - код 
 
-Thesis.pdf - текст диплома
+Thesis.pdf - текст диплома 
 
-Защита.pdf - презентация с защиты диплома
+Защита.pdf - презентация с защиты диплома 
 
 video.mp4 - полученный результат, обученный автомобиль едет по дороге
